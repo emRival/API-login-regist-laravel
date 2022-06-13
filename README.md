@@ -25,6 +25,11 @@
 - telp
 - password
 
+## Reqired Data Login on API
+
+- email
+- password
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
