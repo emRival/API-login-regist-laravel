@@ -10,7 +10,7 @@
 ## Petunjuk Penggunaan
 
 - ekstrak file zip ke dalam htdoc
-- buat database pada mysql dengan nama <a style="color: #21fc0d ;">api_emarket</a>
+- buat database pada mysql dengan nama api_emarket
 - buka project menggunakan VSC dan ketik php artisan migrate:fresh
 
 ## End Point
